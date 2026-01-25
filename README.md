@@ -2,7 +2,7 @@
 ## Hi there 👋
 
 <!--
-**KayleyK1820/KayleyK1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**KayleyK1820/柏誼_KayleyK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
